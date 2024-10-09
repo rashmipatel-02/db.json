@@ -1,22 +1,456 @@
 {
-  "students": [
-    {
-      "id": "ef48",
-      "name": "",
-      "number": "",
-      "course": "full stack"
-    },
-    {
-      "id": "2741",
-      "name": "java",
-      "number": "7777996541",
-      "course": "backend"
-    },
-    {
-      "id": "3d71",
-      "name": "mongodb",
-      "number": "65",
-      "course": "backend"
-    }
-  ]
+    "Heroslider": [
+        {
+            "id": 1,
+            "image": "https://assets.tatacliq.com/medias/sys_master/images/52675364782110.jpg"
+        },
+        {
+            "id": 2,
+            "image": "https://assets.tatacliq.com/medias/sys_master/images/52727295836190.jpg"
+        },
+        {
+            "id": 3,
+            "image": "https://assets.tatacliq.com/medias/sys_master/images/52727295901726.jpg"
+        },
+        {
+            "id": 4,
+            "image": "https://assets.tatacliq.com/medias/sys_master/images/52727295967262.jpg"
+        },
+        {
+            "id": 5,
+            "image": "https://assets.tatacliq.com/medias/sys_master/images/52727296229406.jpg"
+        },
+        {
+            "id": 6,
+            "image": "https://assets.tatacliq.com/medias/sys_master/images/52727296032798.jpg"
+        },
+        {
+            "id": 7,
+            "image": "https://assets.tatacliq.com/medias/sys_master/images/52727296098334.jpg"
+        },
+        {
+            "id": 8,
+            "image": "https://assets.tatacliq.com/medias/sys_master/images/52727296163870.jpg"
+        }
+    ],
+    "home": [
+        {
+            "id": 1,
+            "image": "https://assets.tatacliq.com/medias/sys_master/images/51869107945502.jpg"
+        },
+        {
+            "id": 2,
+            "image": "https://assets.tatacliq.com/medias/sys_master/images/51869108011038.jpg"
+        },
+        {
+            "id": 3,
+            "image": "https://assets.tatacliq.com/medias/sys_master/images/51869108076574.jpg"
+        },
+        {
+            "id": 4,
+            "image": "https://assets.tatacliq.com/medias/sys_master/images/51869108142110.jpg"
+        },
+        {
+            "id": 5,
+            "image": "https://assets.tatacliq.com/medias/sys_master/images/51869108207646.jpg"
+        },
+        {
+            "id": 6,
+            "image": "https://assets.tatacliq.com/medias/sys_master/images/51869108273182.jpg"
+        },
+        {
+            "id": 7,
+            "image": "https://assets.tatacliq.com/medias/sys_master/images/51869108338718.jpg"
+        },
+        {
+            "id": 8,
+            "image": "https://assets.tatacliq.com/medias/sys_master/images/51869108404254.jpg"
+        },
+        {
+            "id": 9,
+            "image": "https://assets.tatacliq.com/medias/sys_master/images/51869108469790.jpg"
+        },
+        {
+            "id": 10,
+            "image": "https://assets.tatacliq.com/medias/sys_master/images/51869108535326.jpg"
+        },
+        {
+            "id": 11,
+            "image": "https://assets.tatacliq.com/medias/sys_master/images/51869108600862.jpg"
+        }
+    ],
+    "westsideSlider": [
+        {
+            "id": 1,
+            "image": "https://assets.tatacliq.com/medias/sys_master/images/52677983272990.jpg"
+        },
+        {
+            "id": 2,
+            "image": "https://assets.tatacliq.com/medias/sys_master/images/52677983338526.jpg"
+        },
+        {
+            "id": 3,
+            "image": "https://assets.tatacliq.com/medias/sys_master/images/52677983404062.jpg"
+        },
+        {
+            "id": 4,
+            "image": "https://assets.tatacliq.com/medias/sys_master/images/52677983469598.jpg"
+        },
+        {
+            "id": 5,
+            "image": "https://assets.tatacliq.com/medias/sys_master/images/52677983535134.jpg"
+        },
+        {
+            "id": 6,
+            "image": "https://assets.tatacliq.com/medias/sys_master/images/52677983600670.jpg"
+        },
+        {
+            "id": 7,
+            "image": "https://assets.tatacliq.com/medias/sys_master/images/52677983666206.jpg"
+        },
+        {
+            "id": 8,
+            "image": "https://assets.tatacliq.com/medias/sys_master/images/52677983731742.jpg"
+        }
+    ],
+    "DiscountCoupan": [
+        {
+            "id": 1,
+            "image": "https://assets.tatacliq.com/medias/sys_master/images/50074650869790.jpg"
+        },
+        {
+            "id": 2,
+            "image": "https://assets.tatacliq.com/medias/sys_master/images/50040038359070.jpg"
+        },
+        {
+            "id": 3,
+            "image": "https://assets.tatacliq.com/medias/sys_master/images/50063519580190.jpg"
+        }
+    ],
+    "BlockBuster Deals": [
+        {
+            "image1": "https://assets.tatacliq.com/medias/sys_master/images/51869116956702.jpg",
+            "image2": "https://assets.tatacliq.com/medias/sys_master/images/51869117022238.jpg",
+            "image3": "https://assets.tatacliq.com/medias/sys_master/images/51869117087774.jpg",
+            "image4": "https://assets.tatacliq.com/medias/sys_master/images/51869117153310.jpg"
+        },
+        {
+            "image1": "https://assets.tatacliq.com/medias/sys_master/images/51869117284382.jpg",
+            "image2": "https://assets.tatacliq.com/medias/sys_master/images/51869117349918.jpg",
+            "image3": "https://assets.tatacliq.com/medias/sys_master/images/51869117415454.jpg",
+            "image4": "https://assets.tatacliq.com/medias/sys_master/images/51869117480990.jpg"
+        },
+        {
+            "image1": "https://assets.tatacliq.com/medias/sys_master/images/51869120135198.jpg",
+            "image2": "https://assets.tatacliq.com/medias/sys_master/images/51869117612062.jpg",
+            "image3": "https://assets.tatacliq.com/medias/sys_master/images/51869117972510.jpg",
+            "image4": "https://assets.tatacliq.com/medias/sys_master/images/51869118103582.jpg"
+        }
+    ],
+    "Seal the Deal1": [
+        {
+            "id": 1,
+            "image": "https://assets.tatacliq.com/medias/sys_master/images/51889190567966.jpg"
+        },
+        {
+            "id": 2,
+            "image": "https://assets.tatacliq.com/medias/sys_master/images/51889190633502.jpg"
+        },
+        {
+            "id": 3,
+            "image": "https://assets.tatacliq.com/medias/sys_master/images/51889190699038.jpg"
+        },
+        {
+            "id": 4,
+            "image": "https://assets.tatacliq.com/medias/sys_master/images/51889190764574.jpg"
+        },
+        {
+            "id": 5,
+            "image": "https://assets.tatacliq.com/medias/sys_master/images/51889190830110.jpg"
+        },
+        {
+            "id": 6,
+            "image": "https://assets.tatacliq.com/medias/sys_master/images/51889190895646.jpg"
+        },
+        {
+            "id": 7,
+            "image": "https://assets.tatacliq.com/medias/sys_master/images/51869120593950.jpg"
+        },
+        {
+            "id": 8,
+            "image": "https://assets.tatacliq.com/medias/sys_master/images/51869120659486.jpg"
+        }
+    ],
+    "Seal the Deal2": [
+        {
+            "id": 1,
+            "image": "https://assets.tatacliq.com/medias/sys_master/images/51889190961182.jpg"
+        },
+        {
+            "id": 2,
+            "image": "https://assets.tatacliq.com/medias/sys_master/images/51889191026718.jpg"
+        },
+        {
+            "id": 3,
+            "image": "https://assets.tatacliq.com/medias/sys_master/images/51889191092254.jpg"
+        },
+        {
+            "id": 4,
+            "image": "https://assets.tatacliq.com/medias/sys_master/images/51889191157790.jpg"
+        },
+        {
+            "id": 5,
+            "image": "https://assets.tatacliq.com/medias/sys_master/images/51889191223326.jpg"
+        },
+        {
+            "id": 6,
+            "image": "https://assets.tatacliq.com/medias/sys_master/images/51889191288862.jpg"
+        },
+        {
+            "id": 7,
+            "image": "https://assets.tatacliq.com/medias/sys_master/images/51889191354398.jpg"
+        },
+        {
+            "id": 8,
+            "image": "https://assets.tatacliq.com/medias/sys_master/images/51889191419934.jpg"
+        }
+    ],
+    "Indifinds": [
+        {
+            "id": 1,
+            "image": "https://assets.tatacliq.com/medias/sys_master/images/51889191485470.jpg"
+        },
+        {
+            "id": 2,
+            "image": "https://assets.tatacliq.com/medias/sys_master/images/51889191551006.jpg"
+        },
+        {
+            "id": 3,
+            "image": "https://assets.tatacliq.com/medias/sys_master/images/51889191616542.jpg"
+        },
+        {
+            "id": 4,
+            "image": "https://assets.tatacliq.com/medias/sys_master/images/51889191682078.jpg"
+        },
+        {
+            "id": 5,
+            "image": "https://assets.tatacliq.com/medias/sys_master/images/51889191747614.jpg"
+        }
+    ],
+    "Trending": [
+        {
+            "id": 1,
+            "image": "https://assets.tatacliq.com/medias/sys_master/images/51889191813150.jpg"
+        },
+        {
+            "id": 2,
+            "image": "https://assets.tatacliq.com/medias/sys_master/images/51889191878686.jpg"
+        },
+        {
+            "id": 3,
+            "image": "https://assets.tatacliq.com/medias/sys_master/images/51889191944222.jpg"
+        },
+        {
+            "id": 4,
+            "image": "https://assets.tatacliq.com/medias/sys_master/images/51889192009758.jpg"
+        },
+        {
+            "id": 5,
+            "image": "https://assets.tatacliq.com/medias/sys_master/images/51889192075294.jpg"
+        },
+        {
+            "id": 6,
+            "image": "https://assets.tatacliq.com/medias/sys_master/images/51889192140830.jpg"
+        },
+        {
+            "id": 7,
+            "image": "https://assets.tatacliq.com/medias/sys_master/images/51889192206366.jpg"
+        },
+        {
+            "id": 8,
+            "image": "https://assets.tatacliq.com/medias/sys_master/images/51889192271902.jpg"
+        }
+    ],
+    "Mustwear": [
+        {
+            "id": 1,
+            "image": "https://assets.tatacliq.com/medias/sys_master/images/51889193091102.jpg"
+        },
+        {
+            "id": 2,
+            "image": "https://assets.tatacliq.com/medias/sys_master/images/51889193156638.jpg"
+        },
+        {
+            "id": 3,
+            "image": "https://assets.tatacliq.com/medias/sys_master/images/51889193222174.jpg"
+        },
+        {
+            "id": 4,
+            "image": "https://assets.tatacliq.com/medias/sys_master/images/51889193287710.jpg"
+        },
+        {
+            "id": 5,
+            "image": "https://assets.tatacliq.com/medias/sys_master/images/51889193353246.jpg"
+        },
+        {
+            "id": 6,
+            "image": "https://assets.tatacliq.com/medias/sys_master/images/51889193418782.jpg"
+        },
+        {
+            "id": 7,
+            "image": "https://assets.tatacliq.com/medias/sys_master/images/51889193484318.jpg"
+        },
+        {
+            "id": 8,
+            "image": "https://assets.tatacliq.com/medias/sys_master/images/51889193549854.jpg"
+        }
+    ],
+    "Bring-home": [
+        {
+            "id": 1,
+            "image": "https://assets.tatacliq.com/medias/sys_master/images/51889193615390.jpg"
+        },
+        {
+            "id": 2,
+            "image": "https://assets.tatacliq.com/medias/sys_master/images/51889193680926.jpg"
+        },
+        {
+            "id": 3,
+            "image": "https://assets.tatacliq.com/medias/sys_master/images/51889193746462.jpg"
+        },
+        {
+            "id": 4,
+            "image": "https://assets.tatacliq.com/medias/sys_master/images/51889193811998.jpg"
+        },
+        {
+            "id": 5,
+            "image": "https://assets.tatacliq.com/medias/sys_master/images/51889193877534.jpg"
+        },
+        {
+            "id": 6,
+            "image": "https://assets.tatacliq.com/medias/sys_master/images/51889193943070.jpg"
+        },
+        {
+            "id": 7,
+            "image": "https://assets.tatacliq.com/medias/sys_master/images/51889194008606.jpg"
+        },
+        {
+            "id": 8,
+            "image": "https://assets.tatacliq.com/medias/sys_master/images/51889194074142.jpg"
+        }
+    ],
+    "Digiden": [
+        {
+            "id": 1,
+            "image": "https://assets.tatacliq.com/medias/sys_master/images/51889194139678.jpg"
+        },
+        {
+            "id": 2,
+            "image": "https://assets.tatacliq.com/medias/sys_master/images/51889194205214.jpg"
+        },
+        {
+            "id": 3,
+            "image": "https://assets.tatacliq.com/medias/sys_master/images/51889194270750.jpg"
+        },
+        {
+            "id": 4,
+            "image": "https://assets.tatacliq.com/medias/sys_master/images/51889194336286.jpg"
+        },
+        {
+            "id": 5,
+            "image": "https://assets.tatacliq.com/medias/sys_master/images/51889194401822.jpg"
+        },
+        {
+            "id": 6,
+            "image": "https://assets.tatacliq.com/medias/sys_master/images/51889194467358.jpg"
+        },
+        {
+            "id": 7,
+            "image": "https://assets.tatacliq.com/medias/sys_master/images/51889194532894.jpg"
+        },
+        {
+            "id": 8,
+            "image": "https://assets.tatacliq.com/medias/sys_master/images/51889194598430.jpg"
+        }
+    ],
+    "Ticktalk": [
+        {
+            "id": 1,
+            "image": "https://assets.tatacliq.com/medias/sys_master/images/51889194663966.jpg"
+        },
+        {
+            "id": 2,
+            "image": "https://assets.tatacliq.com/medias/sys_master/images/51889194729502.jpg"
+        },
+        {
+            "id": 3,
+            "image": "https://assets.tatacliq.com/medias/sys_master/images/51889194795038.jpg"
+        },
+        {
+            "id": 4,
+            "image": "https://assets.tatacliq.com/medias/sys_master/images/51889194860574.jpg"
+        },
+        {
+            "id": 5,
+            "image": "https://assets.tatacliq.com/medias/sys_master/images/51889194926110.jpg"
+        },
+        {
+            "id": 6,
+            "image": "https://assets.tatacliq.com/medias/sys_master/images/51889194991646.jpg"
+        },
+        {
+            "id": 7,
+            "image": "https://assets.tatacliq.com/medias/sys_master/images/51889195057182.jpg"
+        },
+        {
+            "id": 8,
+            "image": "https://assets.tatacliq.com/medias/sys_master/images/51889194663966.jpg"
+        }
+    ],
+    "Mostwanted": [
+        {
+            "image1": "https://assets.tatacliq.com/medias/sys_master/images/51889195122718.jpg",
+            "image2": "https://assets.tatacliq.com/medias/sys_master/images/51889195188254.jpg",
+            "image3": "https://assets.tatacliq.com/medias/sys_master/images/51889195253790.jpg",
+            "image4": "https://assets.tatacliq.com/medias/sys_master/images/51889195319326.jpg"
+        }
+    ],
+    "brandbargains": [
+        {
+            "id": 1,
+            "image": "https://assets.tatacliq.com/medias/sys_master/images/51889195647006.jpg"
+        },
+        {
+            "id": 2,
+            "image": "https://assets.tatacliq.com/medias/sys_master/images/51889195712542.jpg"
+        },
+        {
+            "id": 3,
+            "image": "https://assets.tatacliq.com/medias/sys_master/images/51889195778078.jpg"
+        },
+        {
+            "id": 4,
+            "image": "https://assets.tatacliq.com/medias/sys_master/images/51889195843614.jpg"
+        },
+        {
+            "id": 5,
+            "image": "https://assets.tatacliq.com/medias/sys_master/images/51889195909150.jpg"
+        },
+        {
+            "id": 6,
+            "image": "https://assets.tatacliq.com/medias/sys_master/images/51889195974686.jpg"
+        },
+        {
+            "id": 7,
+            "image": "https://assets.tatacliq.com/medias/sys_master/images/51889196040222.jpg"
+        },
+        {
+            "id": 8,
+            "image": "https://assets.tatacliq.com/medias/sys_master/images/51889196105758.jpg"
+        },
+        {
+            "id": 9,
+            "image": "https://assets.tatacliq.com/medias/sys_master/images/51889196171294.jpg"
+        }
+    ]
 }
